@@ -1,3 +1,8 @@
+v1.2 (April 1, 2022)
+* Add new codegen - php-guzzle
+* Fix issue with pipeline failing due to updated version of RestSharp
+* Fix for - [502](https://github.com/postmanlabs/postman-code-generators/issues/502) Allow GET method to have a body in java-okhttp if present in input request
+
 v1.1.5 (May 10, 2021)
 * Fixed an issue with how JSON bodies are shown in code snippets for Ruby, C#, and Dart.
 
