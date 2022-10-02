@@ -29,7 +29,7 @@
   "dependencies": {},
   "devDependencies": {
     "axios": "0.19.2",
-    "form-data": "3.0.0",
+    "form-data": "3.0.1",
     "qs": "6.9.2"
   },
   "engines": {
